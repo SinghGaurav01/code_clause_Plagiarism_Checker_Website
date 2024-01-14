@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    justify-content:center;
+
+}
+
+.container {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 30px;
+    justify-content: center;
+    text-align: center;
+
+    box-sizing: border-box;
+    margin-top: 70px;
+    max-width: 100%;
+    height: 600px;
+    padding: 50px;
+    background-color: rgba(57, 144, 191, 0.814);
+    border-radius: 50px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+    padding: 30px;
+  }
+
+  .button {
+    padding: 10px 20px;
+    background-color: #8b1fb2;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  .results {
+    margin-top: 30px;
+  }
+
+  .results p {
+    font-weight: bold;
+  }
+  #text2{
+    font-size: normal;
+  }
